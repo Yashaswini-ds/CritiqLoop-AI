@@ -1,3 +1,4 @@
+HEAD
 # CritiqLoop AI — Agentic AI Feedback Loop
 
 **CritiqLoop AI** is an agentic feedback-loop system built using **LangGraph**, **LangChain**, and **Groq**. A **Creator Agent** generates candidate content, a **Reviewer Agent** evaluates it across four structured metrics, and the system iteratively refines the draft until it satisfies a deterministic application-level quality gate or reaches a maximum iteration limit.
@@ -367,3 +368,6 @@ A 3–5 minute presentation sequence demonstrating CritiqLoop AI:
 9. **Final Output**: Showcase the rendered Markdown output in the **Final Approved Draft** panel.
 10. **Resilience & Bounds**: Demonstrate that the workflow stops after max 3 iterations if unapproved, or terminates safely with sanitized diagnostics if network/API issues occur.
 
+=======
+# CritiqLoop-AI
+e779455603fbc5216d66712b0747ec9c610db30d
